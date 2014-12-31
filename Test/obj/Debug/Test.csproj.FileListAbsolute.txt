@@ -1,0 +1,25 @@
+C:\Users\v-hoverz\Documents\Visual Studio 2013\Projects\RemotingSample\Test\bin\Debug\Test.exe.config
+C:\Users\v-hoverz\Documents\Visual Studio 2013\Projects\RemotingSample\Test\bin\Debug\Test.exe
+C:\Users\v-hoverz\Documents\Visual Studio 2013\Projects\RemotingSample\Test\bin\Debug\Test.pdb
+C:\Users\v-hoverz\Documents\Visual Studio 2013\Projects\RemotingSample\Test\bin\Debug\Apis.dll
+C:\Users\v-hoverz\Documents\Visual Studio 2013\Projects\RemotingSample\Test\bin\Debug\Apis.pdb
+C:\Users\v-hoverz\Documents\Visual Studio 2013\Projects\RemotingSample\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+C:\Users\v-hoverz\Documents\Visual Studio 2013\Projects\RemotingSample\Test\obj\Debug\Test.exe
+C:\Users\v-hoverz\Documents\Visual Studio 2013\Projects\RemotingSample\Test\obj\Debug\Test.pdb
+\\vslabdev084\c$\Users\v-hoverz\Documents\Visual Studio 2013\Projects\RemotingSample\Test\bin\Debug\Test.exe.config
+\\vslabdev084\c$\Users\v-hoverz\Documents\Visual Studio 2013\Projects\RemotingSample\Test\obj\Debug\Test.exe
+\\vslabdev084\c$\Users\v-hoverz\Documents\Visual Studio 2013\Projects\RemotingSample\Test\obj\Debug\Test.pdb
+\\vslabdev084\c$\Users\v-hoverz\Documents\Visual Studio 2013\Projects\RemotingSample\Test\bin\Debug\Test.exe
+\\vslabdev084\c$\Users\v-hoverz\Documents\Visual Studio 2013\Projects\RemotingSample\Test\bin\Debug\Test.pdb
+\\vslabdev084\c$\Users\v-hoverz\Documents\Visual Studio 2013\Projects\RemotingSample\Test\bin\Debug\Apis.dll
+\\vslabdev084\c$\Users\v-hoverz\Documents\Visual Studio 2013\Projects\RemotingSample\Test\bin\Debug\Apis.pdb
+\\vslabdev084\c$\Users\v-hoverz\Documents\Visual Studio 2013\Projects\RemotingSample\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+C:\Users\v-hoverz\Desktop\RemotingDemo\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+C:\Users\v-hoverz\Desktop\RemotingDemo\Test\obj\Debug\Test.exe
+C:\Users\v-hoverz\Desktop\RemotingDemo\Test\obj\Debug\Test.pdb
+C:\Users\v-hoverz\Desktop\RemotingDemo\Test.exe.config
+C:\Users\v-hoverz\Desktop\RemotingDemo\Test.exe
+C:\Users\v-hoverz\Desktop\RemotingDemo\Test.pdb
+C:\Users\v-hoverz\Desktop\MyDemo\RemotingDemo\Test.exe.config
+C:\Users\v-hoverz\Desktop\MyDemo\RemotingDemo\Test\obj\Debug\Test.exe
+C:\Users\v-hoverz\Desktop\MyDemo\RemotingDemo\Test\obj\Debug\Test.pdb

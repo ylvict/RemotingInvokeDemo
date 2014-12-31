@@ -1,0 +1,13 @@
+C:\Users\v-hoverz\Documents\Visual Studio 2013\Projects\RemotingSample\Apis\bin\Debug\Apis.dll
+C:\Users\v-hoverz\Documents\Visual Studio 2013\Projects\RemotingSample\Apis\bin\Debug\Apis.pdb
+C:\Users\v-hoverz\Documents\Visual Studio 2013\Projects\RemotingSample\Apis\obj\Debug\Apis.dll
+C:\Users\v-hoverz\Documents\Visual Studio 2013\Projects\RemotingSample\Apis\obj\Debug\Apis.pdb
+\\vslabdev084\c$\Users\v-hoverz\Documents\Visual Studio 2013\Projects\RemotingSample\Apis\bin\Debug\Apis.dll
+\\vslabdev084\c$\Users\v-hoverz\Documents\Visual Studio 2013\Projects\RemotingSample\Apis\bin\Debug\Apis.pdb
+\\vslabdev084\c$\Users\v-hoverz\Documents\Visual Studio 2013\Projects\RemotingSample\Apis\obj\Debug\Apis.csprojResolveAssemblyReference.cache
+\\vslabdev084\c$\Users\v-hoverz\Documents\Visual Studio 2013\Projects\RemotingSample\Apis\obj\Debug\Apis.dll
+\\vslabdev084\c$\Users\v-hoverz\Documents\Visual Studio 2013\Projects\RemotingSample\Apis\obj\Debug\Apis.pdb
+C:\Users\v-hoverz\Desktop\RemotingDemo\Apis\obj\Debug\Apis.dll
+C:\Users\v-hoverz\Desktop\RemotingDemo\Apis\obj\Debug\Apis.pdb
+C:\Users\v-hoverz\Desktop\RemotingDemo\Apis.dll
+C:\Users\v-hoverz\Desktop\RemotingDemo\Apis.pdb

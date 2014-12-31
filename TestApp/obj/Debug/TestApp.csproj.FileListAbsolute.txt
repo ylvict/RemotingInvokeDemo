@@ -1,0 +1,31 @@
+C:\Users\v-hoverz\Documents\Visual Studio 2013\Projects\RemotingSample\TestApp\bin\Debug\TestApp.exe.config
+C:\Users\v-hoverz\Documents\Visual Studio 2013\Projects\RemotingSample\TestApp\obj\Debug\TestApp.csprojResolveAssemblyReference.cache
+C:\Users\v-hoverz\Documents\Visual Studio 2013\Projects\RemotingSample\TestApp\obj\Debug\TestApp.Form1.resources
+C:\Users\v-hoverz\Documents\Visual Studio 2013\Projects\RemotingSample\TestApp\obj\Debug\TestApp.Properties.Resources.resources
+C:\Users\v-hoverz\Documents\Visual Studio 2013\Projects\RemotingSample\TestApp\obj\Debug\TestApp.csproj.GenerateResource.Cache
+C:\Users\v-hoverz\Documents\Visual Studio 2013\Projects\RemotingSample\TestApp\bin\Debug\TestApp.exe
+C:\Users\v-hoverz\Documents\Visual Studio 2013\Projects\RemotingSample\TestApp\bin\Debug\TestApp.pdb
+C:\Users\v-hoverz\Documents\Visual Studio 2013\Projects\RemotingSample\TestApp\bin\Debug\Apis.dll
+C:\Users\v-hoverz\Documents\Visual Studio 2013\Projects\RemotingSample\TestApp\bin\Debug\Apis.pdb
+C:\Users\v-hoverz\Documents\Visual Studio 2013\Projects\RemotingSample\TestApp\obj\Debug\TestApp.exe
+C:\Users\v-hoverz\Documents\Visual Studio 2013\Projects\RemotingSample\TestApp\obj\Debug\TestApp.pdb
+\\vslabdev084\c$\Users\v-hoverz\Documents\Visual Studio 2013\Projects\RemotingSample\TestApp\bin\Debug\TestApp.exe.config
+\\vslabdev084\c$\Users\v-hoverz\Documents\Visual Studio 2013\Projects\RemotingSample\TestApp\bin\Debug\TestApp.exe
+\\vslabdev084\c$\Users\v-hoverz\Documents\Visual Studio 2013\Projects\RemotingSample\TestApp\bin\Debug\TestApp.pdb
+\\vslabdev084\c$\Users\v-hoverz\Documents\Visual Studio 2013\Projects\RemotingSample\TestApp\bin\Debug\Apis.dll
+\\vslabdev084\c$\Users\v-hoverz\Documents\Visual Studio 2013\Projects\RemotingSample\TestApp\bin\Debug\Apis.pdb
+\\vslabdev084\c$\Users\v-hoverz\Documents\Visual Studio 2013\Projects\RemotingSample\TestApp\obj\Debug\TestApp.csprojResolveAssemblyReference.cache
+\\vslabdev084\c$\Users\v-hoverz\Documents\Visual Studio 2013\Projects\RemotingSample\TestApp\obj\Debug\TestApp.Form1.resources
+\\vslabdev084\c$\Users\v-hoverz\Documents\Visual Studio 2013\Projects\RemotingSample\TestApp\obj\Debug\TestApp.Properties.Resources.resources
+\\vslabdev084\c$\Users\v-hoverz\Documents\Visual Studio 2013\Projects\RemotingSample\TestApp\obj\Debug\TestApp.csproj.GenerateResource.Cache
+\\vslabdev084\c$\Users\v-hoverz\Documents\Visual Studio 2013\Projects\RemotingSample\TestApp\obj\Debug\TestApp.exe
+\\vslabdev084\c$\Users\v-hoverz\Documents\Visual Studio 2013\Projects\RemotingSample\TestApp\obj\Debug\TestApp.pdb
+C:\Users\v-hoverz\Desktop\RemotingDemo\TestApp\obj\Debug\TestApp.csprojResolveAssemblyReference.cache
+C:\Users\v-hoverz\Desktop\RemotingDemo\TestApp\obj\Debug\TestApp.Form1.resources
+C:\Users\v-hoverz\Desktop\RemotingDemo\TestApp\obj\Debug\TestApp.Properties.Resources.resources
+C:\Users\v-hoverz\Desktop\RemotingDemo\TestApp\obj\Debug\TestApp.csproj.GenerateResource.Cache
+C:\Users\v-hoverz\Desktop\RemotingDemo\TestApp\obj\Debug\TestApp.exe
+C:\Users\v-hoverz\Desktop\RemotingDemo\TestApp\obj\Debug\TestApp.pdb
+C:\Users\v-hoverz\Desktop\RemotingDemo\TestApp.exe.config
+C:\Users\v-hoverz\Desktop\RemotingDemo\TestApp.exe
+C:\Users\v-hoverz\Desktop\RemotingDemo\TestApp.pdb
